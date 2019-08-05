@@ -1,5 +1,5 @@
-# US Ignite Spatial Data Science Notebooks for Portland, OR
 
+# US Ignite Spatial Data Science Notebooks for Portland, OR
 
 ## Git workflow
 Below is an brief outline of the git workflow for joint development between CARTO and US Ignite:
@@ -25,6 +25,7 @@ When your work is complete on your personal development branch (i.e. `dev-jd`) y
 ```
 git checkout develop
 ```
+
 
 
 
