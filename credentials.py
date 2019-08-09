@@ -12,6 +12,6 @@ credentials = {
         "pedestrian": "SD-IE-PEDESTRIAN",
         "traffic": "SD-IE-TRAFFIC",
         "bicycle": "SD-IE-BIKE", 
-        "bbox": "{lat}:{long},{lat}:{long}"
+        "bbox": "32.715675:-117.161230,32.708498:-117.151681"
     }
 }
