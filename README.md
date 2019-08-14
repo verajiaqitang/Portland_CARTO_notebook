@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+# Portland_CARTO_notebook_Datasets_Creds
+=======
 
 # US Ignite Spatial Data Science Notebooks for Portland, OR
 
@@ -69,3 +72,4 @@ From there, you can use the variables `BASE_URL` and `API_KEY` whereever neccesa
 
 
 
+>>>>>>> 18de06dabf937e3e2b3381a658a3f75e4d1c1dbc
